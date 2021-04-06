@@ -22,4 +22,4 @@
 > * [Build a Website using Amazon EC2 with LAMP?](https://www.youtube.com/watch?v=Qk-f8hMzkhU)
 >    * HW hand-in link：[Build a Website using Amazon EC2 with LAMP](https://www.youtube.com/watch?v=Qk-f8hMzkhU)
 > * [Build a Website using Amazon S3(Versioning) and AWS Amplify](https://www.youtube.com/watch?v=DAUcdgS1mXE)
->    * HW hand-in link：(https://www.youtube.com/watch?v=DAUcdgS1mXE)
+>    * HW hand-in link：[Build a Website using Amazon S3(Versioning) and AWS Amplify](https://github.com/feather07170132/FinTech/blob/main/HW3/readme.md)
