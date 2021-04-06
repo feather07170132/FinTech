@@ -21,3 +21,5 @@
 >    * HW hand-in link：[I think of Cloud Computing...](https://github.com/feather07170132/FinTech/blob/main/HW1/readme.md)
 > * [Build a Website using Amazon EC2 with LAMP?](https://www.youtube.com/watch?v=Qk-f8hMzkhU)
 >    * HW hand-in link：[Build a Website using Amazon EC2 with LAMP](https://www.youtube.com/watch?v=Qk-f8hMzkhU)
+> * [Build a Website using Amazon S3(Versioning) and AWS Amplify]
+>    * HW hand-in link：
