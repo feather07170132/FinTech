@@ -19,7 +19,7 @@
 > * [HW1：What do you think of Cloud Computing?](https://github.com/cindy861103/FinTech/tree/main/Homework/HW1)
 >    * Deadline：2021/03/22
 >    * HW hand-in link：[I think of Cloud Computing...](https://github.com/feather07170132/FinTech/blob/main/HW1/readme.md)
-> * [Build a Website using Amazon EC2 with LAMP?](https://www.youtube.com/watch?v=Qk-f8hMzkhU)
+> * [HW2：Build a Website using Amazon EC2 with LAMP?](https://www.youtube.com/watch?v=Qk-f8hMzkhU)
 >    * HW hand-in link：[Build a Website using Amazon EC2 with LAMP](https://www.youtube.com/watch?v=Qk-f8hMzkhU)
-> * [Build a Website using Amazon S3(Versioning) and AWS Amplify](https://www.youtube.com/watch?v=DAUcdgS1mXE)
->    * HW hand-in link：[Build a Website using Amazon S3(Versioning) and AWS Amplify](https://github.com/feather07170132/FinTech/blob/main/HW3/readme.md)
+> * [HW3：Build a Website using Amazon S3(Versioning) and AWS Amplify](https://www.youtube.com/watch?v=DAUcdgS1mXE)
+>    * [HW hand-in github link：](https://github.com/feather07170132/FinTech/blob/main/HW3/readme.md)
