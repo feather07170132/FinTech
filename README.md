@@ -23,3 +23,5 @@
 >    * [HW hand-in github link](https://github.com/feather07170132/FinTech/blob/main/HW2/readme.md)
 > * [HW3：Build a Website using Amazon S3(Versioning) and AWS Amplify](https://www.youtube.com/watch?v=DAUcdgS1mXE)
 >    * [HW hand-in github link](https://github.com/feather07170132/FinTech/blob/main/HW3/readme.md)
+> * [HW4：Build a Telegram Chatbot using Amazon APIGateway and AWS Lambda](https://www.youtube.com/watch?v=-DRWs6i_bMU)
+>    
